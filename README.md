@@ -1,4 +1,4 @@
-👋 Hi, I’m @KatrBjo
+## 👋 Hi, I’m @KatrBjo
 
 👀 I’m interested in frontend development and user experience design
 
