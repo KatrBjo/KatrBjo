@@ -13,7 +13,7 @@
 ⚡ Fun fact: I love hiking and have climbed the tallest mountain in my home country Norway
 
 
-🏫 Noroff Assignments:
+## Noroff Assignments:
 
   🎮 Cross-Course Project (Design, HTML & CSS) - E-commerce Online Shopping Community
   
